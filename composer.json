@@ -1,5 +1,5 @@
 {
-    "name": "extensions-store/addressvalidator",
+    "name": "david-tay/addressvalidator",
     "license": "GPL-3.0",
     "type": "magento-module",
     "description": "Validate billing and shipping addresses in the One Page Checkout.",
